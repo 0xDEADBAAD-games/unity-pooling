@@ -15,3 +15,5 @@ How it's supposed to work:
 10. Instead of calling Destroy(gameObject) on the pooled objects, use the Destroy() method of their PoolableObject component.
 
 That should be it. If anything explodes feel free to report a bug.
+
+Twitter: [@stinkfist_vg](https://twitter.com/stinkfist_vg)
